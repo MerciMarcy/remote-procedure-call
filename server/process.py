@@ -34,6 +34,7 @@ class Process:
         process_table = {
             "floor": self.floor,
             "nroot": self.n_root,
+            "reverse": self.reverse,
             "validAnagram": self.valid_anagram,
             "sort": self.sort,
         }

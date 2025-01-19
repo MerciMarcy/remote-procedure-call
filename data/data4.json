@@ -1,0 +1,6 @@
+{
+  "method": "validAnagram",
+  "params": ["abc", "bac"],
+  "param_types": ["str", "str"],
+  "id": 4
+}

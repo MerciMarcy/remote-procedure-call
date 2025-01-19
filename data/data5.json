@@ -1,0 +1,6 @@
+{
+  "method": "sort",
+  "params": [["c", "b", "a"]],
+  "param_types": ["list"],
+  "id": 3
+}
